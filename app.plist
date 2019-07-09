@@ -13,22 +13,6 @@
                    <key>url</key>
                    <string>http://192.168.1.116:8080/testItms/OnlineFinancialer.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>图片的地址</string>
-               </dict>
-      <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>图片的地址</string>
-              </dict>
            </array>
            <key>metadata</key>
            <dict>
