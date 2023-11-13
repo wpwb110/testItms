@@ -17,7 +17,7 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.nbeebank.jiafalicaishi</string>
+               <string>com.autounion.usedcar</string>
                <key>bundle-version</key>
                <string>2.3.0</string>
                <key>kind</key>
@@ -25,7 +25,7 @@
                <key>subtitle</key>
                <string></string>
                <key>title</key>
-               <string>加法理财师</string>
+               <string>优信二手车</string>
            </dict>
        </dict>
    </array>
